@@ -1,7 +1,7 @@
 ## Hello World 👋
 
 - 🔭 I'm Lakshay Joshi, final year undergrad @DTU (DCE). I love Web development and contributing to Open source projects. I also have good grasp on Data Structures & Algorithms and Competitive Programming. 
-- 📫 How to reach me: [Email](mailto:lakshayjoshi15@gmail.com)
+- 📫 How to reach me: [Email](mailto:lakshayjoshi15@gmail.com)  || [Linkedin](https://www.linkedin.com/in/lakshay-joshi-b9298b201/)
 - 😄 Pronouns: He/Him
 - ### Language :
 
